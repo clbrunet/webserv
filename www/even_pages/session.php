@@ -13,6 +13,6 @@ $_SESSION['var'] = 'value';
 	<body>
 		<h1>var_dump($_SESSION)</h1>
 		<pre><?php var_dump($_SESSION); ?></pre>
-		<p>$_SESSION['var'] =  <?php echo $_SESSION['var']; ?> !<br /></p>
+		<p>$_SESSION['var'] =  <?php echo $_SESSION['var']; ?><br /></p>
 	</body>
 </html>
