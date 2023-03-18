@@ -1,4 +1,4 @@
-# 42_webserv
+# webserv
 nginx-based web server
 ## Usage
 ```shell
